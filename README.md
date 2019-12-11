@@ -18,6 +18,8 @@ dependencies:
 
 ## Usage
 
+See the API page > https://krthr.github.io/pope.cr/
+
 ```crystal
 require "pope.cr"
 
