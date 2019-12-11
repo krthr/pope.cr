@@ -8,11 +8,11 @@ A fast, minimal and micro template engine for strings only, it plays well where 
 
 1. Add the dependency to your `shard.yml`:
 
-   ```yaml
-   dependencies:
-     strint.cr:
-       github: krthr/pope.cr
-   ```
+```yaml
+dependencies:
+  pope.cr:
+    github: krthr/pope.cr
+```
 
 2. Run `shards install`
 
