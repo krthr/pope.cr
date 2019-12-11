@@ -1,0 +1,9 @@
+name: strint.cr
+version: 0.1.0
+
+authors:
+  - krthr <twilson@uninorte.edu.co>
+
+crystal: 0.31.1
+
+license: MIT
