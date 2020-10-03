@@ -1,2 +1,2 @@
 require "spec"
-require "../src/strint.cr"
+require "../src/pope.cr"
