@@ -132,8 +132,7 @@ module Pope
         end
 
         if opts[:skip_undefined]
-          val = str
-          next # if we didn't find the value, but we're supposed to skip unresolved values, then don't apply filters either.
+          next str # if we didn't find the value, but we're supposed to skip unresolved values, then don't apply filters either.
         end
       end
 
