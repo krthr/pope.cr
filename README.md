@@ -53,7 +53,9 @@ Pope.prop(data, "nananana")          # nil
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
-### How to add additional filters Adding more filters is fairly straightforward:
+### How to add additional filters
+
+Adding more filters is fairly straightforward:
 
 1. Add another member to the `Filters` enum in `src/pope.cr`
 
